@@ -89,7 +89,7 @@ header {
 /* landing */
 .hero{
   margin: 0 !important;
-  background: url(/img/images/solar-panels-meadow\ 1.png);
+  background: url(../img/images/solar-panels-meadow\ 1.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -222,7 +222,7 @@ header {
 }
 /* 4 section */
 .power{
-  background: url(/img/images/8116\ 1.png);
+  background: url(../img/images/8116\ 1.png);
   width: 100vw;
   height: 50vh;
   background-position: center;
@@ -293,7 +293,7 @@ header {
 }
 /* 6 section */
 .repairs{
-background: url(/img/images/8116\ 1\ \(1\).png);
+background: url(../img/images/8116\ 1\ \(1\).png);
 background-size: cover;
 background-position: center;
 width: 100vw;
